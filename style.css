@@ -1,0 +1,60 @@
+body {
+    background: #efeff0;
+}
+
+#botao {
+
+font-size: 1.6em !important;
+color: #ffffff !important;
+border: 1px solid #be1522 !important;
+line-height: 1 !important;
+padding: 15px 45px !important;
+border-radius: 15px !important;
+font-weight: 700 !important;
+background: #be1522 !important;
+}
+
+#botao2 {
+
+font-size: 1.6em !important;
+color: #ffffff !important;
+border: 1px solid #be1522 !important;
+line-height: 1 !important;
+padding: 15px 45px !important;
+border-radius: 15px !important;
+font-weight: 700 !important;
+background: #be1522 !important;
+}
+
+#txtValor1 {
+/* font-size: 1.6em !important; */
+color: #000 !important;
+line-height: 1 !important;
+padding: 15px 45px !important;
+border-radius: 15px !important;
+font-weight: 700 !important;
+margin-bottom: 30px;
+
+}
+
+#txtValor2 {
+/* font-size: 1.6em !important; */
+color: #000 !important;
+line-height: 1 !important;
+padding: 15px 45px !important;
+border-radius: 15px !important;
+font-weight: 700 !important;
+margin-bottom: 30px;
+
+}
+
+#operadores {
+/* font-size: 1.6em !important; */
+color: #000 !important;
+line-height: 1 !important;
+padding: 15px 45px !important;
+border-radius: 15px !important;
+font-weight: 700 !important;
+margin-bottom: 30px;
+
+}
